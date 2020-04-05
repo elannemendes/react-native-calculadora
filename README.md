@@ -6,10 +6,10 @@
 
  A calculadora possui as funções básicas:
 
-Adição (+);
-Subtração (–);
-Multiplicação (×);
-Divisão (÷).
+* Adição (+);
+* Subtração (–);
+* Multiplicação (×);
+* Divisão (÷).
 
 Além disso, é possível realizar cálculos mais complexos, com mais
 de uma operação, utilizando os parênteses.
